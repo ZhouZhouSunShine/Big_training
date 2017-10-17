@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Big_training.iml" filepath="$PROJECT_DIR$/Big_training.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyAlertDialog(自建对话框依赖库)/MyAlertDialog(自建对话框依赖库).iml" filepath="$PROJECT_DIR$/MyAlertDialog(自建对话框依赖库)/MyAlertDialog(自建对话框依赖库).iml" />
+      <module fileurl="file://$PROJECT_DIR$/PermissionDemo(动态权限)/PermissionDemo(动态权限).iml" filepath="$PROJECT_DIR$/PermissionDemo(动态权限)/PermissionDemo(动态权限).iml" />
+    </modules>
+  </component>
+</project>
