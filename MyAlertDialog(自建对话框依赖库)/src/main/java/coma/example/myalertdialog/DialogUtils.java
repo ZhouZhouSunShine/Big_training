@@ -34,4 +34,25 @@ public class DialogUtils {
         builder.show();
     }
 
+    public static void showIconDialog(final Context context, String title, String message) {
+        AlertDialog.Builder builder = new AlertDialog.Builder(context)
+                .setIcon(R.mipmap.ic_launcher)
+                .setTitle(title)
+                .setMessage(message)
+                .setPositiveButton("确定", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialog, int which) {
+                        Toast.makeText(context, "点击了确认按钮", Toast.LENGTH_SHORT).show();
+                    }
+                })
+                .setNegativeButton("取消", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialog, int which) {
+                        Toast.makeText(context, "点击了取消按钮", Toast.LENGTH_SHORT).show();
+                    }
+                });
+        builder.create();
+        builder.show();
+    }
+
 }
