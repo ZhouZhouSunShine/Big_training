@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Big_training.iml" filepath="$PROJECT_DIR$/Big_training.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Microsoft Bootvis(启动优化)/Microsoft Bootvis(启动优化).iml" filepath="$PROJECT_DIR$/Microsoft Bootvis(启动优化)/Microsoft Bootvis(启动优化).iml" />
       <module fileurl="file://$PROJECT_DIR$/MyAlertDialog(自建对话框依赖库)/MyAlertDialog(自建对话框依赖库).iml" filepath="$PROJECT_DIR$/MyAlertDialog(自建对话框依赖库)/MyAlertDialog(自建对话框依赖库).iml" />
       <module fileurl="file://$PROJECT_DIR$/PermissionDemo(动态权限)/PermissionDemo(动态权限).iml" filepath="$PROJECT_DIR$/PermissionDemo(动态权限)/PermissionDemo(动态权限).iml" />
     </modules>
