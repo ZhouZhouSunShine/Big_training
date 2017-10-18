@@ -1,1 +1,1 @@
-include ':PermissionDemo(动态权限)', ':MyAlertDialog(自建对话框依赖库)', ':Microsoft Bootvis(启动优化)', ':RxBus(组件间的传值)', ':MyMatrix(矩阵)'
+include ':PermissionDemo(动态权限)', ':MyAlertDialog(自建对话框依赖库)', ':Microsoft Bootvis(启动优化)', ':RxBus(组件间的传值)', ':MyMatrix(矩阵)', ':LeakCanary(内存泄露)'

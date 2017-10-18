@@ -8,6 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/LeakCanary(内存泄露)" />
             <option value="$PROJECT_DIR$/Microsoft Bootvis(启动优化)" />
             <option value="$PROJECT_DIR$/MyAlertDialog(自建对话框依赖库)" />
             <option value="$PROJECT_DIR$/MyMatrix(矩阵)" />
