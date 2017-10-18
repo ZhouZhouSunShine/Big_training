@@ -23,7 +23,7 @@ import rx.subscriptions.CompositeSubscription;
  */
 
 
-public class Fragment02  extends Fragment{
+public class Fragment02 extends Fragment {
 
     private static final String TAG = "TAG";
     private View view;
@@ -32,7 +32,7 @@ public class Fragment02  extends Fragment{
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        view = inflater.inflate(R.layout.fragment02,container,false);
+        view = inflater.inflate(R.layout.fragment02, container, false);
         return view;
     }
 
@@ -41,7 +41,7 @@ public class Fragment02  extends Fragment{
         super.onActivityCreated(savedInstanceState);
         final TextView text_View = (TextView) view.findViewById(R.id.text_View);
 
-        RxBus.getInstance().toObservable(String.class)
+        Subscription subscribe = RxBus.getInstance().toObservable(String.class)
                 .observeOn(AndroidSchedulers.mainThread())
                 .subscribe(new Observer<String>() {
                     @Override
@@ -56,14 +56,14 @@ public class Fragment02  extends Fragment{
 
                     @Override
                     public void onNext(String s) {
-                        Log.e(TAG,"onNext:=========" + s);
+                        Log.e(TAG, "onNext:=========" + s);
                         text_View.setText(s);
                     }
                 });
     }
 
-    public void addSubscription(Subscription subscription){
-        if(c == null){
+    public void addSubscription(Subscription subscription) {
+        if (c == null) {
             c = new CompositeSubscription();
         }
         c.add(subscription);
@@ -72,7 +72,7 @@ public class Fragment02  extends Fragment{
     @Override
     public void onDestroy() {
         super.onDestroy();
-        if(c != null){
+        if (c != null) {
             c.unsubscribe();
         }
     }
