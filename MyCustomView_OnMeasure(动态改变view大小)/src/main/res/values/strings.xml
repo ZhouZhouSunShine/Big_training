@@ -1,0 +1,3 @@
+<resources>
+    <string name="app_name">MyCustomView_OnMeasure(动态改变view大小)</string>
+</resources>
