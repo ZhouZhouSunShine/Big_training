@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/LeakCanary(内存泄露)/LeakCanary(内存泄露).iml" filepath="$PROJECT_DIR$/LeakCanary(内存泄露)/LeakCanary(内存泄露).iml" />
       <module fileurl="file://$PROJECT_DIR$/Microsoft Bootvis(启动优化)/Microsoft Bootvis(启动优化).iml" filepath="$PROJECT_DIR$/Microsoft Bootvis(启动优化)/Microsoft Bootvis(启动优化).iml" />
       <module fileurl="file://$PROJECT_DIR$/MyAlertDialog(自建对话框依赖库)/MyAlertDialog(自建对话框依赖库).iml" filepath="$PROJECT_DIR$/MyAlertDialog(自建对话框依赖库)/MyAlertDialog(自建对话框依赖库).iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyCustomView_OnLayout(自定义环形布局)/MyCustomView_OnLayout(自定义环形布局).iml" filepath="$PROJECT_DIR$/MyCustomView_OnLayout(自定义环形布局)/MyCustomView_OnLayout(自定义环形布局).iml" />
       <module fileurl="file://$PROJECT_DIR$/MyCustomView_OnMeasure(动态改变view大小)/MyCustomView_OnMeasure(动态改变view大小).iml" filepath="$PROJECT_DIR$/MyCustomView_OnMeasure(动态改变view大小)/MyCustomView_OnMeasure(动态改变view大小).iml" />
       <module fileurl="file://$PROJECT_DIR$/MyMatrix(矩阵)/MyMatrix(矩阵).iml" filepath="$PROJECT_DIR$/MyMatrix(矩阵)/MyMatrix(矩阵).iml" />
       <module fileurl="file://$PROJECT_DIR$/PermissionDemo(动态权限)/PermissionDemo(动态权限).iml" filepath="$PROJECT_DIR$/PermissionDemo(动态权限)/PermissionDemo(动态权限).iml" />
