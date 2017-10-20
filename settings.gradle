@@ -1,1 +1,1 @@
-include ':PermissionDemo(动态权限)', ':MyAlertDialog(自建对话框依赖库)', ':Microsoft Bootvis(启动优化)', ':RxBus(组件间的传值)', ':MyMatrix(矩阵)', ':LeakCanary(内存泄露)', ':MyCustomView_OnMeasure(动态改变view大小)', ':MyCustomView_OnLayout(自定义环形布局)', ':MyCustomeView_OnDraw(绘画)'
+include ':PermissionDemo(动态权限)', ':MyAlertDialog(自建对话框依赖库)', ':Microsoft Bootvis(启动优化)', ':RxBus(组件间的传值)', ':MyMatrix(矩阵)', ':LeakCanary(内存泄露)', ':MyCustomView_OnMeasure(动态改变view大小)', ':MyCustomView_OnLayout(自定义环形布局)', ':MyCustomeView_OnDraw(绘画)', ':Retrofit2(简单使用和文件下载)'

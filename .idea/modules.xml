@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/MyCustomeView_OnDraw(绘画)/MyCustomeView_OnDraw(绘画).iml" filepath="$PROJECT_DIR$/MyCustomeView_OnDraw(绘画)/MyCustomeView_OnDraw(绘画).iml" />
       <module fileurl="file://$PROJECT_DIR$/MyMatrix(矩阵)/MyMatrix(矩阵).iml" filepath="$PROJECT_DIR$/MyMatrix(矩阵)/MyMatrix(矩阵).iml" />
       <module fileurl="file://$PROJECT_DIR$/PermissionDemo(动态权限)/PermissionDemo(动态权限).iml" filepath="$PROJECT_DIR$/PermissionDemo(动态权限)/PermissionDemo(动态权限).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Retrofit2(简单使用和文件下载)/Retrofit2(简单使用和文件下载).iml" filepath="$PROJECT_DIR$/Retrofit2(简单使用和文件下载)/Retrofit2(简单使用和文件下载).iml" />
       <module fileurl="file://$PROJECT_DIR$/RxBus(组件间的传值)/RxBus(组件间的传值).iml" filepath="$PROJECT_DIR$/RxBus(组件间的传值)/RxBus(组件间的传值).iml" />
     </modules>
   </component>

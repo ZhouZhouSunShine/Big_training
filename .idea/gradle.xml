@@ -16,6 +16,7 @@
             <option value="$PROJECT_DIR$/MyCustomeView_OnDraw(绘画)" />
             <option value="$PROJECT_DIR$/MyMatrix(矩阵)" />
             <option value="$PROJECT_DIR$/PermissionDemo(动态权限)" />
+            <option value="$PROJECT_DIR$/Retrofit2(简单使用和文件下载)" />
             <option value="$PROJECT_DIR$/RxBus(组件间的传值)" />
           </set>
         </option>
