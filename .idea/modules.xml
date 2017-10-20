@@ -13,6 +13,8 @@
       <module fileurl="file://$PROJECT_DIR$/PermissionDemo(动态权限)/PermissionDemo(动态权限).iml" filepath="$PROJECT_DIR$/PermissionDemo(动态权限)/PermissionDemo(动态权限).iml" />
       <module fileurl="file://$PROJECT_DIR$/Retrofit2(简单使用和文件下载)/Retrofit2(简单使用和文件下载).iml" filepath="$PROJECT_DIR$/Retrofit2(简单使用和文件下载)/Retrofit2(简单使用和文件下载).iml" />
       <module fileurl="file://$PROJECT_DIR$/RxBus(组件间的传值)/RxBus(组件间的传值).iml" filepath="$PROJECT_DIR$/RxBus(组件间的传值)/RxBus(组件间的传值).iml" />
+      <module fileurl="file://$PROJECT_DIR$/RxJava(第二课时)/RxJava(第二课时).iml" filepath="$PROJECT_DIR$/RxJava(第二课时)/RxJava(第二课时).iml" />
+      <module fileurl="file://$PROJECT_DIR$/RxJava2(第一课时)/RxJava2(第一课时).iml" filepath="$PROJECT_DIR$/RxJava2(第一课时)/RxJava2(第一课时).iml" />
     </modules>
   </component>
 </project>
